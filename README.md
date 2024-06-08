@@ -1,7 +1,7 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in biostatistics
 - 🌱 I’m currently learning Bayesian statistics 
-- 💞️ I’m looking to collaborate on biostatistics research
+- 💞️ I’m a PhD student working in statistical mediation methologies and a part time employee at @Roche.
 - 📫 How to reach me : George_kazantzidis@outlook.com
 
 <!---
